@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dryndry.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dryndry.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dryndry.com/collections/ethylene-gas-absorbers.atom"/>
+  <title>Dry &amp; Dry</title>
+  <updated>2018-11-09T16:27:05-08:00</updated>
+  <author>
+    <name>Dry &amp; Dry</name>
+  </author>
+  <entry>
+    <id>https://dryndry.com/products/1565266739287</id>
+    <published>2018-11-09T16:27:05-08:00</published>
+    <updated>2018-11-09T16:27:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dryndry.com/products/2-gram-4410-pack-premium-ethylene-gas-absorber-easy-to-and-ready-to-use-packets-extends-freshness-of-fruits-vegetables-and-flowers"/>
+    <title>Fresh &amp; Fresh 2 Gram (4410 Pack) Premium Ethylene Gas Absorber – Easy to and Ready to use packets – Extends Freshness of Fruits, Vegetables, and Flowers</title>
+    <s:type></s:type>
+    <s:vendor>Fresh &amp; Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1195/0130/products/2gram_dcc2608c-558f-4472-a39f-6f2fcf11590f.jpg?v=1541810215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh &amp; Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            219.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">PROTECTS FRESHNESS, TASTE, AND QUALITY – Normally last for 1.5 month (It depends on what kinds of fruits, vegetables, and flowers) </span></li>
+<li><span class="a-list-item"> EXTENDS THE SHELF LIFE OF PRODUCE - Delays process of decay,  discoloration, and wilting (Place packets in refrigerator drawers or where produce is stored.) </span></li>
+<li><span class="a-list-item"> SAVES MONEY - Slows down the ripening process of produce and eliminates food waste (Store unused packets in air-tight container or the resealable bag they came in) </span></li>
+<li><span class="a-list-item"> EASY TO USE - Simply place packets where produce is stored. (Discard the used packets) </span></li>
+<li><span class="a-list-item"> 100 % SATISFACTION GUARANTEED - 100% Refund or New Replacement even BEYOND REFUND PERIOD if you are not happy with our product (These packets work well in enclosed space) </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dryndry.com/products/1565266739287</id>
+      <title>Default Title</title>
+      <s:price currency="USD">219.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dryndry.com/products/1565266542679</id>
+    <published>2018-11-09T16:27:05-08:00</published>
+    <updated>2018-11-09T16:27:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dryndry.com/products/2-gram-315-pack-premium-ethylene-gas-absorber-easy-to-and-ready-to-use-packets-extends-freshness-of-fruits-vegetables-and-flowers"/>
+    <title>Fresh &amp; Fresh 2 Gram (315 Pack) Premium Ethylene Gas Absorber – Easy to and Ready to use packets – Extends Freshness of Fruits, Vegetables, and Flowers</title>
+    <s:type></s:type>
+    <s:vendor>Fresh &amp; Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1195/0130/products/2gram_3fc6e9a8-38ee-4bb6-be4e-df978bfee3b9.jpg?v=1541810171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh &amp; Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">PROTECTS FRESHNESS, TASTE, AND QUALITY – Normally last for 1.5 month (It depends on what kinds of fruits, vegetables, and flowers) </span></li>
+<li><span class="a-list-item"> EXTENDS THE SHELF LIFE OF PRODUCE - Delays process of decay, discoloration, and wilting (Place packets in refrigerator drawers or where produce is stored.) </span></li>
+<li><span class="a-list-item"> SAVES MONEY - Slows down the ripening process of produce and eliminates food waste (Store unused packets in air-tight container or the resealable bag they came in) </span></li>
+<li><span class="a-list-item"> EASY TO USE - Simply place packets where produce is stored. (Discard the used packets) </span></li>
+<li><span class="a-list-item"> 100 % SATISFACTION GUARANTEED - 100% Refund or New Replacement even BEYOND REFUND PERIOD if you are not happy with our product (These packets work well in enclosed space) </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dryndry.com/products/1565266542679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dryndry.com/products/1565266411607</id>
+    <published>2018-11-09T16:27:05-08:00</published>
+    <updated>2018-11-09T16:27:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dryndry.com/products/2-gram-100-pack-premium-ethylene-gas-absorber-easy-to-and-ready-to-use-packets-extends-freshness-of-fruits-vegetables-and-flowers"/>
+    <title>Fresh &amp; Fresh 2 Gram (100 Pack) Premium Ethylene Gas Absorber – Easy to and Ready to use packets – Extends Freshness of Fruits, Vegetables, and Flowers</title>
+    <s:type></s:type>
+    <s:vendor>Fresh &amp; Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1195/0130/products/2gram_301b5041-2fef-483b-85dc-616302090440.jpg?v=1541810128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh &amp; Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">PROTECTS FRESHNESS, TASTE, AND QUALITY – Normally last for 1.5 month (It depends on what kinds of fruits, vegetables, and flowers) </span></li>
+<li><span class="a-list-item"> EXTENDS THE SHELF LIFE OF PRODUCE - Delays process of decay, discoloration, and wilting (Place packets in refrigerator drawers or where produce is stored.) </span></li>
+<li><span class="a-list-item"> SAVES MONEY - Slows down the ripening process of produce and eliminates food waste (Store unused packets in air-tight container or the resealable bag they came in) </span></li>
+<li><span class="a-list-item"> EASY TO USE - Simply place packets where produce is stored. (Discard the used packets) </span></li>
+<li><span class="a-list-item"> 100 % SATISFACTION GUARANTEED - 100% Refund or New Replacement even BEYOND REFUND PERIOD if you are not happy with our product (These packets work well in enclosed space) </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dryndry.com/products/1565266411607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dryndry.com/products/1565266116695</id>
+    <published>2018-11-09T16:27:05-08:00</published>
+    <updated>2018-11-09T16:27:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dryndry.com/products/2-gram-35-pack-premium-ethylene-gas-absorber-easy-to-and-ready-to-use-packets-extends-freshness-of-fruits-vegetables-and-flowers"/>
+    <title>Fresh &amp; Fresh 2 Gram (35 Pack) Premium Ethylene Gas Absorber – Easy to and Ready to use packets – Extends Freshness of Fruits, Vegetables, and Flowers</title>
+    <s:type></s:type>
+    <s:vendor>Fresh &amp; Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1195/0130/products/2gram.jpg?v=1541810081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh &amp; Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">PROTECTS FRESHNESS, TASTE, AND QUALITY – Normally last for 1.5 month (It depends on what kinds of fruits, vegetables, and flowers) </span></li>
+<li><span class="a-list-item"> EXTENDS THE SHELF LIFE OF PRODUCE - Delays process of decay, discoloration, and wilting (Place packets in refrigerator drawers or where produce is stored.) </span></li>
+<li><span class="a-list-item"> SAVES MONEY - Slows down the ripening process of produce and eliminates food waste (Store unused packets in air-tight container or the resealable bag they came in) </span></li>
+<li><span class="a-list-item"> EASY TO USE - Simply place packets where produce is stored. (Discard the used packets) </span></li>
+<li><span class="a-list-item"> 100 % SATISFACTION GUARANTEED - 100% Refund or New Replacement even BEYOND REFUND PERIOD if you are not happy with our product (These packets work well in enclosed space) </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dryndry.com/products/1565266116695</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dryndry.com/products/1565265657943</id>
+    <published>2018-11-09T16:27:05-08:00</published>
+    <updated>2018-11-09T16:27:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dryndry.com/products/5-gram-2100-pack-premium-ethylene-gas-absorber-easy-to-and-ready-to-use-packets-extends-freshness-of-fruits-vegetables-and-flowers"/>
+    <title>Fresh &amp; Fresh 5 Gram (2100 Pack) Premium Ethylene Gas Absorber – Easy to and Ready to use packets – Extends Freshness of Fruits, Vegetables, and Flowers</title>
+    <s:type></s:type>
+    <s:vendor>Fresh &amp; Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1195/0130/products/5_gram_5618ded0-378d-4850-b210-326abad2ae9a.jpg?v=1541809920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh &amp; Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">PROTECTS FRESHNESS, TASTE, AND QUALITY – Normally last for 3.0 month (It depends on what kinds of fruits, vegetables, and flowers) </span></li>
+<li><span class="a-list-item"> EXTENDS THE SHELF LIFE OF PRODUCE - Delays process of decay, discoloration, and wilting (Place packets in refrigerator drawers or where produce is stored.) </span></li>
+<li><span class="a-list-item"> SAVES MONEY - Slows down the ripening process of produce and eliminates food waste (Store unused packets in air-tight container or the resealable bag they came in) </span></li>
+<li><span class="a-list-item"> EASY TO USE - Simply place packets where produce is stored. (Discard the used packets) </span></li>
+<li><span class="a-list-item"> 100 % SATISFACTION GUARANTEED - 100% Refund or New Replacement even BEYOND REFUND PERIOD if you are not happy with our product (These packets work well in enclosed space) </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dryndry.com/products/1565265657943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dryndry.com/products/1565265428567</id>
+    <published>2018-11-09T16:27:05-08:00</published>
+    <updated>2018-11-09T16:27:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dryndry.com/products/5-gram-100-pack-premium-ethylene-gas-absorber-easy-to-and-ready-to-use-packets-extends-freshness-of-fruits-vegetables-and-flowers"/>
+    <title>Fresh &amp; Fresh 5 Gram (175 Pack) Premium Ethylene Gas Absorber – Easy to and Ready to use packets – Extends Freshness of Fruits, Vegetables, and Flowers</title>
+    <s:type></s:type>
+    <s:vendor>Fresh &amp; Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1195/0130/products/5_gram_0be7ad49-fd52-4f83-a2b5-879f0526adaa.jpg?v=1541809804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh &amp; Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">PROTECTS FRESHNESS, TASTE, AND QUALITY – Normally last for 3.0 month (It depends on what kinds of fruits, vegetables, and flowers) </span></li>
+<li><span class="a-list-item"> EXTENDS THE SHELF LIFE OF PRODUCE - Delays process of decay, discoloration, and wilting (Place packets in refrigerator drawers or where produce is stored.) </span></li>
+<li><span class="a-list-item"> SAVES MONEY - Slows down the ripening process of produce and eliminates food waste (Store unused packets in air-tight container or the resealable bag they came in) </span></li>
+<li><span class="a-list-item"> EASY TO USE - Simply place packets where produce is stored. (Discard the used packets) </span></li>
+<li><span class="a-list-item"> 100 % SATISFACTION GUARANTEED - 100% Refund or New Replacement even BEYOND REFUND PERIOD if you are not happy with our product (These packets work well in enclosed space) </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dryndry.com/products/1565265428567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dryndry.com/products/1565265297495</id>
+    <published>2018-11-09T16:27:05-08:00</published>
+    <updated>2018-11-09T16:27:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dryndry.com/products/5-gram-35-pack-premium-ethylene-gas-absorber-easy-to-and-ready-to-use-packets-extends-freshness-of-fruits-vegetables-and-flowers"/>
+    <title>Fresh &amp; Fresh 5 Gram (35 Pack) Premium Ethylene Gas Absorber – Easy to and Ready to use packets – Extends Freshness of Fruits, Vegetables, and Flowers</title>
+    <s:type></s:type>
+    <s:vendor>Fresh &amp; Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1195/0130/products/5_gram.jpg?v=1541809764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh &amp; Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">PROTECTS FRESHNESS, TASTE, AND QUALITY – Normally last for 3.0 month (It depends on what kinds of fruits, vegetables, and flowers) </span></li>
+<li><span class="a-list-item"> EXTENDS THE SHELF LIFE OF PRODUCE - Delays process of decay, discoloration, and wilting (Place packets in refrigerator drawers or where produce is stored.) </span></li>
+<li><span class="a-list-item"> SAVES MONEY - Slows down the ripening process of produce and eliminates food waste (Store unused packets in air-tight container or the resealable bag they came in) </span></li>
+<li><span class="a-list-item"> EASY TO USE - Simply place packets where produce is stored. (Discard the used packets) </span></li>
+<li><span class="a-list-item"> 100 % SATISFACTION GUARANTEED - 100% Refund or New Replacement even BEYOND REFUND PERIOD if you are not happy with our product (These packets work well in enclosed space) </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dryndry.com/products/1565265297495</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
